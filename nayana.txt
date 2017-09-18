@@ -1,0 +1,33 @@
+ hello....my self nayana im here to give some discription about whatever i learnt till now. Actually im here to learn about 'PYTHON'.... I have learned some commands and codes like ls, ls -al, ls -l etc.... and i learnt some shortcuts like how to exit 'Q', to open terminal 'ctrl alt t' and to close terminal 'alt F4' etc...I   I wrote programes on:
+ 1.dice program
+    module  a)rolling the dice
+            b)setting the range
+            c)getting a random num
+
+ 2.snake nd ladder program
+    module  a)positoin in the game
+            b)snake nd ladder position
+            c)position on getting a ladder or bitten by a snake
+            d)setting a range of dice
+            e)rolling the dice to move ahead in the game
+            f)roll the dice till u reach 100
+
+ 3.tables program 
+    module  a)inputing the number 
+            b)calculating
+
+ 4.stone paper nd scissors program
+    module  a)setting the input 
+            b)giving conditions
+            c)computer choosing random from the input 
+            d)user getting to choose from the input
+            e)results will be displayed
+            f)tabulation
+
+ 5.email program
+    module  a)begin the program with suitable commands
+            b)authentication of the sender
+            c)writring the message
+            d)writing the email id of the sender and the reciever respectively
+            e)run the program
+while doings this programs i met with lots of confusions so i disccused with my frnds and teachers later i completed it successfully.... and i created github account the help of my sir and i uploaded all the programs which i have done in my github account....Even today(13/9/17) i learned some modules and i will keep learning.......because its very interesting.
