@@ -7,3 +7,4 @@ message="hello"
 s.sendmail("nayanaputtadev@gmail.com","nayanaputtadev@gmail.com",message)
 print("sucess")
 s.quit()
+#sending mail using python program
